@@ -2,10 +2,12 @@
 
 
 Planejamento da solução (IOT)
+
 Input - Entrada
+
 O problema de negócio
 
-    Criar um plano de estratégia para adquirir imóveis em ótimas localizações com preços baixos e atrativos para revender à preços mais altos; lucrando mais, maximizando a sua receita..
+Criar um plano de estratégia para adquirir imóveis em ótimas localizações com preços baixos e atrativos para revender à preços mais altos; lucrando mais, maximizando a sua receita..
 
 Output - Saída
 
